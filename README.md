@@ -1,4 +1,4 @@
-<img src="chireeeee.jpg">
+<img src="chireeeee.gif"><img src="up.jpg"><img src="up-d.jpg">
 
 <!--
 **Chi-Re/Chi-Re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
